@@ -1,0 +1,18 @@
+highlighter: rouge
+permalink: /:year/:month/:day/:title.html
+name: "Zhang Hao"
+
+author: "Zhang Hao"
+atom-baseurl: "https://zhhgit.github.io/blog"
+
+navigations:
+  - title: Archive
+    class: fa fa-list-ul
+    href: /blog/index.html
+  - title: Tags
+    class: fa fa-tags
+    href: /blog/tags.html
+  - title: About
+    class: fa fa-user
+    href: /blog/about.html
+
